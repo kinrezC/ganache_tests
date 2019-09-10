@@ -1,0 +1,5 @@
+#define macro EDIT_BAL = takes(0) returns (0) {
+    push2 0xAD9C
+    push32 0x57e6ec33c3d2f2ebe28483ec48a55a2d24e3ba638ddc652a54c050f9a36ce1b9
+    sstore 
+}
